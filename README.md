@@ -54,9 +54,9 @@ Future improvements:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/mike69slp/portafolio_w8_eyes.svg?style=for-the-badge
-[stars-url]: https://github.com/mike69slp/portafolio_w8_eyes/stargazers
-[license-shield]: https://img.shields.io/github/license/mike69slp/portafolio_w8_eyes.svg?style=for-the-badge
-[license-url]: https://github.com/mike69slp/portafolio_w8_eyes/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/mike69slp/To-Do-List-App.svg?style=for-the-badge
+[stars-url]: https://github.com/mike69slp/To-Do-List-App/stargazers
+[license-shield]: https://img.shields.io/github/license/mike69slp/To-Do-List-App.svg?style=for-the-badge
+[license-url]: https://github.com/mike69slp/To-Do-List-App/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-esparza-3403306a
